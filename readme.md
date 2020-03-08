@@ -1,4 +1,4 @@
-## Heap ADT (40)
+## Heap ADT (40pt)
 
 ### 1. Implement a  (binary) max heap (20pt)
 
