@@ -9,7 +9,7 @@ A binary max is a binary tree with two other constraints:
 
 [This](https://medium.com/basecs/learning-to-love-heaps-cef2b273a238) is a great post about heap with lots of love.
 
-In this doc we use "heap" to refer to "binary max heap".
+In this homework problem we use "heap" to refer to "binary max heap".
 
 Here is an example of a valid heap:
 
