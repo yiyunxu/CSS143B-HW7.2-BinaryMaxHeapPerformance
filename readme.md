@@ -31,7 +31,7 @@ Here is another valid heap:
 Implement the following functions for max heap:
 
 ```java
-   	// build a heap based on data
+    // build a heap based on data
     // to be implemented in O(nlogn)
     public void MaxHeapLogN(Integer[] data) {
         // homework
