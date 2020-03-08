@@ -62,7 +62,7 @@ Implement the following functions for max heap:
     }
 ```
 
-Add unit tests for all five functions in MaxHeapTest. Note that when comparing heap, the content of the heap needs to be compared without changing the heap itself (tip: add a .equals() function in the class).
+Add unit tests for all five functions in MaxHeapTest. Note that when comparing heaps, the content of the heap needs to be compared without changing the heap itself (hint: add a .equals() function in the class).
 
 ### 2. Write a performance comparison test for MaxHeapN and  MaxHeapLogN (20pt)
 
