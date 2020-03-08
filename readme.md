@@ -1,6 +1,6 @@
-## Heap ADT (50)
+## Heap ADT (40)
 
-### 1. Implement a  (binary) max heap (25pt)
+### 1. Implement a  (binary) max heap (20pt)
 
 A binary max is a binary tree with two other constraints:
 
@@ -64,7 +64,7 @@ Implement the following functions for max heap:
 
 Add unit tests for all five functions in MaxHeapTest. Note that when comparing heap, the content of the heap needs to be compared without changing the heap itself (tip: add a .equals() function in the class).
 
-### 2. Write a performance comparison test for MaxHeapN and  MaxHeapLogN (25pt)
+### 2. Write a performance comparison test for MaxHeapN and  MaxHeapLogN (20pt)
 
 Write a performance test code that compare the performance in time of 
 
