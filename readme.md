@@ -61,6 +61,7 @@ Implement the following functions for max heap:
         return null;
     }
 ```
+[Here] has a good discussion on the ways to build a heap from an array with both O(nlogn) and O(n) methods.
 
 Add unit tests for all five functions in MaxHeapTest. Note that when comparing heaps, the content of the heap needs to be compared without changing the heap itself (hint: add a .equals() function in the class).
 
