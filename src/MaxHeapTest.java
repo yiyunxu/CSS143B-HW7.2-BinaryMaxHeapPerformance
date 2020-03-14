@@ -109,7 +109,6 @@ public class MaxHeapTest {
             int testSize = input[i].length;
             MaxHeap heap = new MaxHeap(testSize);
             heap.MaxHeapLogN(input[i]);
-            //System.out.println(heap);
             assertTrue(heap.equal(expected[i]));
         }
     }
@@ -130,7 +129,6 @@ public class MaxHeapTest {
             int testSize = input[i].length;
             MaxHeap heap = new MaxHeap(testSize);
             heap.MaxHeapN(input[i]);
-            //System.out.println(heap);
             assertTrue(heap.equal(expected[i]));
         }
     }
